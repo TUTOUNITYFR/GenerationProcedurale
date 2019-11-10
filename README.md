@@ -8,7 +8,7 @@ Bienvenue sur le repo officiel de la série "Génération procédurale" réalis�
 
 Cette série de vidéos vous permet d'en apprendre plus sur la génération procédurale de terrain sur Unity. Tous les scripts du projet sont en C#.
 
-Vous retrouverez sur ce répo le projet complet du dernier épisode en date mais également des épisodes précédents. Le contenu du projet des épisodes précédents est disponible [ICI](https://github.com/TUTOUNITYFR/GenerationProcedurale/commits/master). Il arrive que certaines modifications mineurs soient ajoutées entre deux épisodes (refractoring, readme, etc.).
+Vous retrouverez sur ce répo le projet complet du dernier épisode en date mais également des épisodes précédents. Le contenu du projet des épisodes précédents est disponible [ICI](https://github.com/TUTOUNITYFR/GenerationProcedurale/commits/master). Il arrive que certaines modifications mineurs soient ajoutées entre deux épisodes (refactoring, readme, etc.).
 
 ## Infos
 
